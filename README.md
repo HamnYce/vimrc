@@ -1,2 +1,2 @@
 # My Vimrc
-# You'll need vimplug && vundle installed
+### You'll need vimplug && vundle installed
